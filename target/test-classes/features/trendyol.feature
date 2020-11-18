@@ -1,6 +1,7 @@
 @trendyollogin
 Feature: Trendyol Search
 
+  @td
   Scenario: TC01_kullanici giris yapar
     Given kullanici web sitesini ziyaret eder
     And kullanici web sayfasinin dogru olup olmadigini kontrol eder
